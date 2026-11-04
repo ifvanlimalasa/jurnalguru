@@ -1,4 +1,3 @@
-# jurnalguru
 # Jurnal Mengajar (Google Apps Script)
 
 Aplikasi jurnal guru: jadwal hari ini, jurnal mengajar, absensi siswa per jam pelajaran, input nilai, rekap kelas, dan dashboard kepala sekolah. Berjalan di Google Apps Script + Google Sheets, tanpa hosting.
